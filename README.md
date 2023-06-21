@@ -12,8 +12,6 @@ NA
 
 The 4 topics of notes are HTML, CSS, JavaScript, and Git. Notes are unordered. For study suggestions open Chrome DevTools press Command+Opion+I (Mac) or Control+Shift+I (Windows).
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 NA
